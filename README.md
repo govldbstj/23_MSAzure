@@ -54,5 +54,3 @@ npm install openai
 참고 자료
 1. openai
 https://platform.openai.com/docs/api-reference
-2. 
-https://www.youtube.com/watch?v=FwOdQR8c_9g
